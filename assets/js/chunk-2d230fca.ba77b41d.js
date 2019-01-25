@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230fca"],{ef2e:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n\t实战\n")])},c=[],i={data:function(){return{}}},a=i,l=t("2877"),o=Object(l["a"])(a,u,c,!1,null,null,null);o.options.__file="index10.vue";e["default"]=o.exports}}]);

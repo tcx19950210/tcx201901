@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2143e9"],{afb0:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n\t组件1\n")])},i=[],a={data:function(){return{}}},c=a,l=t("2877"),o=Object(l["a"])(c,u,i,!1,null,null,null);o.options.__file="index6.vue";e["default"]=o.exports}}]);
